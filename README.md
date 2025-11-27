@@ -3,7 +3,7 @@
 
 
 
-## Hello World! I'm Ana Jerônimo 🌸
+## Hello World! I'm Ana Jerônimo 🌸🦇
 💻 Desenvolvedora RPA | Apaixonada por automação, dados e inovação  
 ⏳ Experiência: 6+ anos em automação e desenvolvimento de sistemas 
 
