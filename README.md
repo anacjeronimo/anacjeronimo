@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fba4e4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=101010&gradientColor=000000,101010&height=120&section=header"/>
+
+
+
 
 ## Hello World! I'm Ana Jerônimo 🌸
 💻 Desenvolvedora RPA | Apaixonada por automação, dados e inovação  
@@ -46,4 +49,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=fba4e4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B008B,DB1074&height=120&section=footer"/>
