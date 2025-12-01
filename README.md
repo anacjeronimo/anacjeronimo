@@ -30,10 +30,10 @@
 
 
 ## 📈 GitHub Stats
-
+<p align="center">
 <img src="https://vercel-github-readme-stats.vercel.app/api?username=anacjeronimo&show_icons=true&theme=tokyonight" width="49%">
 <img src="https://vercel-github-readme-stats.vercel.app/api/top-langs/?username=anacjeronimo&layout=compact&theme=tokyonight" width="49%">
-
+</p>
 
 ## 📫 Vamos nos conectar!
 
